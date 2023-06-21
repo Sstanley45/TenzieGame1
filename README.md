@@ -17,7 +17,7 @@ The game logic is implemented using JavaScript, while the user interface is buil
     Webpack: A module bundler used for packaging the project's assets.
     npm: The package manager used to manage project dependencies.
 
-# What I Learnt development
+# What I Learnt during development
 During the development of the Tenzie Game project, I have gained experience and knowledge in the following areas:
 
     ReactJS: I have learned how to use React components to create a dynamic and interactive user interface.
