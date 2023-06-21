@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Tenzie Game 
+Tenzie is a captivating dice game where the goal is to roll all ten dice to the same number. It is a single-player game that provides an exciting and challenging experience.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this digital adaptation of Tenzie developed using ReactJS, you will have ten dice at the start of the game. On your turn, you roll all the dice simultaneously. After the roll, you choose which dice landed on the desired number and set them aside. Then, you re-roll the remaining dice.
 
-## Available Scripts
+The objective is to repeat this process until all ten dice display the same number. It requires a mix of luck and decision-making to achieve the desired outcome. Your strategic choices on which dice to keep and when to re-roll can greatly influence your success.
 
-In the project directory, you can run:
+# How It's Made:   
+The Tenzie Game is developed using ReactJS, a popular JavaScript library for building user interfaces. The project follows a component-based architecture, where each component represents a different part of the game.
 
-### `npm start`
+The game logic is implemented using JavaScript, while the user interface is built using React components. Styling is done using CSS, and the project is organized using modern development practices such as module bundling and package management with tools like Webpack and npm.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Tech used:
+    ReactJS: A JavaScript library for building user interfaces.
+    JavaScript: The programming language used to implement the game logic.
+    CSS: Used for styling the user interface.
+    Webpack: A module bundler used for packaging the project's assets.
+    npm: The package manager used to manage project dependencies.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# What I Learnt development
+During the development of the Tenzie Game project, I have gained experience and knowledge in the following areas:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    ReactJS: I have learned how to use React components to create a dynamic and interactive user interface.
+    Component-based architecture: By structuring the project using components, I have learned how to separate concerns and create reusable pieces of code.
+    JavaScript: Through implementing the game logic, I have improved my skills in JavaScript programming.
+    Styling with CSS: I have practiced applying styles to elements and designing a visually appealing user interface.
