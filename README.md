@@ -11,16 +11,15 @@ The Tenzie Game is developed using ReactJS, a popular JavaScript library for bui
 The game logic is implemented using JavaScript, while the user interface is built using React components. Styling is done using CSS, and the project is organized using modern development practices such as module bundling and package management with tools like Webpack and npm.
 
 # Tech used:
-    ReactJS: A JavaScript library for building user interfaces.
-    JavaScript: The programming language used to implement the game logic.
-    CSS: Used for styling the user interface.
-    Webpack: A module bundler used for packaging the project's assets.
-    npm: The package manager used to manage project dependencies.
+ReactJS: A JavaScript library for building user interfaces.
+JavaScript: The programming language used to implement the game logic.
+CSS: Used for styling the user interface.
+Webpack: A module bundler used for packaging the project's assets.
+npm: The package manager used to manage project dependencies.
 
 # What I Learnt during development
 During the development of the Tenzie Game project, I have gained experience and knowledge in the following areas:
-
-    ReactJS: I have learned how to use React components to create a dynamic and interactive user interface.
-    Component-based architecture: By structuring the project using components, I have learned how to separate concerns and create reusable pieces of code.
-    JavaScript: Through implementing the game logic, I have improved my skills in JavaScript programming.
-    Styling with CSS: I have practiced applying styles to elements and designing a visually appealing user interface.
+ReactJS: I have learned how to use React components to create a dynamic and interactive user interface.
+Component-based architecture: By structuring the project using components, I have learned how to separate concerns and create reusable pieces of code.
+JavaScript: Through implementing the game logic, I have improved my skills in JavaScript programming.
+Styling with CSS: I have practiced applying styles to elements and designing a visually appealing user interface.
